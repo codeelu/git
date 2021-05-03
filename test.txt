@@ -6,7 +6,6 @@ local
 
 local3
 
-remote
 
 hello
 
