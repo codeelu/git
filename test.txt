@@ -9,5 +9,6 @@ local3
 
 hello
 hello
+nihao
 
 
